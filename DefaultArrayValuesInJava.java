@@ -1,16 +1,16 @@
-Default array values in Java
------------------------------------
-If we don't assign values to array elements, and try to access them, compiler does not produce error as in case of simple variables.
-Instead it assigns values which aren't garbage.
+// Default array values in Java
+// -----------------------------------
+// If we don't assign values to array elements, and try to access them, compiler does not produce error as in case of simple variables.
+// Instead it assigns values which aren't garbage.
 
 
-Below are the default assigned values.
-------------------------------------------
-boolean : false
-int : 0
-double : 0.0
-String : null
-User Defined Type : null
+// Below are the default assigned values.
+// ------------------------------------------
+// boolean : false
+// int : 0
+// double : 0.0
+// String : null
+// User Defined Type : null
 
 
 // Java program to demonstrate default values of array
