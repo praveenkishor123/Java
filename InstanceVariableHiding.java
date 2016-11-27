@@ -1,5 +1,6 @@
 package coreJava;
 
+// 'this' is a reference variable that refers to the current object.
 class Test
 {
     // Instance variable or member variable
