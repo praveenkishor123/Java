@@ -1,6 +1,6 @@
-Using volatile is another way to make a class thread safe, like we do with synchronized, atomic wrapper.
+// Using volatile is another way to make a class thread safe, like we do with synchronized, atomic wrapper.
 
-Thread safe means that a method or class instance can be used by multiple threads at the same time without any problem.
+// Thread safe means that a method or class instance can be used by multiple threads at the same time without any problem.
 
 // Example without volatile keyword
 class Shared {
