@@ -26,6 +26,8 @@ class Test
 	}
 }
 
+
 // Output:
-// a = 10  b = 20
+// Inside parameterized constructor
+// Inside  default constructor
 
