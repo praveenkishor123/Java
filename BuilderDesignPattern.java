@@ -3,6 +3,9 @@ package coreJava;
 import java.util.ArrayList;
 import java.util.List;
 
+// It is used to build a complex object using simple objects and using a step by step approach.
+// This design pattern comes under creational pattern as this pattern 
+// provides one of the best way to create an object.
 interface Item {
 	public String name();
 
@@ -140,7 +143,7 @@ class MealBuilder {
 	}
 }
 
-public class BuilderPatternDemo {
+public class BuilderDesignPattern {
 	public static void main(String[] args) {
 
 		MealBuilder mealBuilder = new MealBuilder();
