@@ -1,5 +1,13 @@
 package coreJava;
 
+//Abstract Factory pattern provides an interface for creating families of related
+//or dependent objects without specifying their concrete classes.
+
+//We use Abstract Factory pattern when our system does not care about how its
+//products will be created or composed.
+
+//We use this pattern when we need to deal with multiple factories.
+
 interface IHollywoodMovie {
 	String MovieName();
 }
