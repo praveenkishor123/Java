@@ -1,4 +1,4 @@
-public class Test
+public class Overloading1
 {
     // Overloaded methods
     public void fun(Integer i)
@@ -13,7 +13,7 @@ public class Test
     // Driver code 
     public static void main(String [] args)
     {
-        Test mv = new Test();
+        Overloading1 mv = new Overloading1();
  
         // This line causes error
         mv.fun(null);
