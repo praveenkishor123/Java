@@ -34,6 +34,7 @@ public class InMemorySearch {
                 "in the end, progress is accomplished by the man who does " +
                 "things."));
 
+            
             writer.addDocument(createDocument("Friedrich Hayek",
                 "The case for individual freedom rests largely on the " +
                 "recognition of the inevitable and universal ignorance " +
