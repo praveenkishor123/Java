@@ -1,0 +1,10 @@
+Identifiers
+
+Identifiers are names of packages, classes, interfaces, methods, and variables.
+
+Question: Which of the following lines of code will compile successfully?
+a byte exam_total = 7;
+b int exam-Total = 1090;
+
+The correct answer is (a). Option (b) is incorrect because hyphens aren’t allowed in the name of a Java identifier. 
+Underscores are allowed.
