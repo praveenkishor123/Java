@@ -14,3 +14,6 @@ class MyChar {
 			while (myInt > 10);
 	}
 }
+
+
+// Output = 7
