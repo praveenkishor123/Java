@@ -27,3 +27,9 @@ public class StringSplit1 {
 	}
 
 }
+
+// Output
+//-----------------
+//one
+//two
+//three
