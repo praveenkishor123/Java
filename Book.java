@@ -4,11 +4,8 @@ public class Book {
 	private String title;
 	
 	public String getTitle() {
-		return title;
-		
+		return title;	
 	}
-
-
 
 public static void main(String[] args) {
 	
@@ -20,8 +17,6 @@ public static void main(String[] args) {
 	
 	// We are getting the null pointer exception here
 	// because the reference variable "title" does not point to an object.
-	
-}
-
+	}
 }
 
